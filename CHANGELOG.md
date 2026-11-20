@@ -1,6 +1,8 @@
 # Changelog - Membership Entity
 
-## 1.x-1.2.2 (unreleased)
+## 1.x-1.2.2 (2026-11-20)
+
+Git tag: `1.x-1.2.2`.
 
 ### Added
 - Term: "When a term ends" on each membership type replaces the "Terms end at the end of the day" switch, with a third choice: at the end of the day before the anniversary, the usual subscription year (taken out on 1 April, a year ends at 23:59:59 on 31 March). A renewal carrying on from the last term still runs a full term; a year from 29 February ends on 28 February. Types saved before keep their behaviour (the old switch decides until the type is saved again).
